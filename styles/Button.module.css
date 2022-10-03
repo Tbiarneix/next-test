@@ -1,0 +1,19 @@
+.buttons {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.error {
+  color: white;
+  background-color: red;
+}
+
+.add {
+  color: white;
+  background-color: green;
+}
+
+.add a {
+  text-decoration: none;
+}
